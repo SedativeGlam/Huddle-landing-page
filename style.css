@@ -204,6 +204,7 @@ footer {
 
 .footer-grid-item1 {
   display: flex;
+  font-size: 20px;
 }
 
 .footer-grid-item1 > p {
@@ -257,7 +258,7 @@ footer {
 
 .footer-grid-right > i {
   opacity: 0.8;
-  padding-right: 5px;
+  margin-right: 10px;
 }
 
 .copyright {
@@ -515,11 +516,6 @@ footer {
   .footer-grid-right {
     padding-top: 30px;
     text-align: center;
-  }
-
-  .footer-grid-right > i {
-    opacity: 0.8;
-    padding-right: 10px;
   }
 
   .footer-grid-item1 > i {
